@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+export MONGODB_USER=admin
+export MONGODB_PASS=b84wboAVJ5xJDuZq
+export MONGODB_HOST=goma-mmnhv.mongodb.net
+
+export AMAZON_AWS_ACCESSKEY=AKIAQ2RZZYM2FTUMSLE2
+export AMAZON_AWS_SECRETKEY=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
+export AMAZON_AWS_S3_REGION=sa-east-1
+export AMAZON_AWS_S3_BUCKET=fih.files
+export AMAZON_AWS_S3_CLOUD_FRONT_DOMAIN=d3n2xycv6tob3w.cloudfront.net
